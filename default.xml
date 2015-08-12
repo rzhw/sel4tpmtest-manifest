@@ -31,6 +31,7 @@
     <linkfile src="Kconfig" dest="Kconfig" />
     <linkfile src="master-configs" dest="configs" />
     <linkfile src="apps" dest="apps" />
+    <linkfile src="libs/libsel4fatipc" dest="libs/libsel4fatipc" />
     <linkfile src="../../kernel/libsel4" dest="libs/libsel4" />
 </project>
 
