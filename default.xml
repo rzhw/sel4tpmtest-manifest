@@ -34,6 +34,11 @@
     <linkfile src="master-configs" dest="configs" />
     <linkfile src="apps" dest="apps" />
     <linkfile src="libs/libsel4fatipc" dest="libs/libsel4fatipc" />
+    <linkfile src="libs/libtrousersincludes" dest="libs/libtrousersincludes" />
+    <linkfile src="libs/libllstddl" dest="libs/libllstddl" />
+    <linkfile src="libs/libllstcs" dest="libs/libllstcs" />
+    <linkfile src="libs/libllstspi" dest="libs/libllstspi" />
+    <!-- TODO make this its own repo --> <linkfile src="libs/libtomcrypt" dest="libs/libtomcrypt" />
     <linkfile src="../../kernel/libsel4" dest="libs/libsel4" />
 </project>
 
