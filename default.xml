@@ -25,6 +25,7 @@
 <project name="libsel4simple-stable.git" path="libs/libsel4simple-stable" />
 <project name="libplatsupport.git" path="libs/libplatsupport" />
 <project name="libutils.git" path="libs/libutils" />
+<project name="sel4-libtomsfastmath.git" path="libs/libtomsfastmath" remote="rzhw" />
 <project name="sel4tpmtest.git" path="projects/sel4tpmtest" remote="rzhw">
     <linkfile src="Makefile" dest="Makefile" />
     <linkfile src="Kbuild" dest="Kbuild" />
